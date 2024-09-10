@@ -21,15 +21,18 @@
         </mxCell>
         <mxCell id="H_ls1AtWDEoM1CzG7WVd-11" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="383" y="179" as="sourcePoint" />
-            <mxPoint x="540" y="179.86263736263737" as="targetPoint" />
+            <mxPoint x="583" y="179.57" as="sourcePoint" />
+            <mxPoint x="740" y="180.43263736263737" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H_ls1AtWDEoM1CzG7WVd-10" value="Jeremy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="540" y="170" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H_ls1AtWDEoM1CzG7WVd-12" value="RJ45 kabel (ethernet)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="420" y="165" width="120" height="30" as="geometry" />
+        <mxCell id="H_ls1AtWDEoM1CzG7WVd-12" value="RJ45 kabel (ethernet)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="600" y="165" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H_ls1AtWDEoM1CzG7WVd-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.workstation;" vertex="1" parent="1">
+          <mxGeometry x="740" y="155" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
